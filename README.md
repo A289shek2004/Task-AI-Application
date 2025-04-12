@@ -52,7 +52,7 @@ TaskAI is an intelligent task management application that uses AI to enhance pro
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/taskai.git
+git clone https://github.com/A289shek2004/Task-AI-Application.git
 cd taskai
 ```
 
@@ -64,7 +64,7 @@ npm install
 3. Set up environment variables
 Create a `.env` file in the root directory with the following variables:
 ```
-DATABASE_URL=postgresql://user:password@localhost:5432/taskai
+DATABASE_URL=postgresql://user:password@localhost:5432/Task-AI-Application
 OPENAI_API_KEY=your_openai_api_key
 ```
 
